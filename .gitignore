@@ -1,0 +1,24 @@
+# macOS-Systemdateien
+.DS_Store
+
+# Backup-Dateien
+*.bak
+*.tmp
+*.swp
+
+# PHP-Cache
+*.log
+*.cache
+
+# Versteckte Umgebungsdateien
+.env
+
+# Editor-spezifisch
+.vscode/
+.idea/
+
+# Node.js (falls du npm verwendest)
+node_modules/
+
+# Composer
+/vendor/
